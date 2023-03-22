@@ -102,7 +102,7 @@
 
 						if ($result) {
 							if (count($result) == 1) {
-								$result = $result[0];
+								$result = $result;
 							}
 							if (count($result[0]) > 1) {
 								$ResponseObject->data[$table] = $result;

@@ -1,8 +1,6 @@
 # Leya 3.0.0
 
-_Formerly "Improv3d API"_
-
-[![Gitter chat](https://badges.gitter.im/Improv3d-API.png)](https://gitter.im/Improv3d-API/Lobby)
+_Formerly "Improv3d API"_ by [kevgk](https://github.com/kevgk/Leya)
 
 ## About
 
